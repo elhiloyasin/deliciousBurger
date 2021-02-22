@@ -12,8 +12,7 @@
 
   ## Description
 
-  >This is an application that I created that is used to experiment with ORM, Node.js, handlebars, MySQL and deploying Heroku with a backend database. 
-
+  >This is an application that I created that is used to experiment with ORM, Node.js, handlebars, MySQL and deploying Heroku with a backend database. Your on the home page you see two options devoured
   ## Links
 
   >Repository: https://github.com/elhiloyasin/deliciousBurger
@@ -26,6 +25,7 @@
   
 
   ## Contact Me
+  Visit my Github profile at https://github.com/elhiloyasin/deliciousBurger.
 
  Email: elhiloyasin@gmail.com
 
