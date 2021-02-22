@@ -1,11 +1,13 @@
-.body {
-  background-color: black;
+body {
+  background-image: url("./realistic-illustration-pattern-burger-delicious-hamburger-with-ingredients-lettuce-onion-patty-tomato-cheese-bun-isolated-white-background_106715-198.jpg");
+  
+  background-repeat: no-repeat;
 }
 
 li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
+    padding: 10px;
+    margin: 10px;
+    background:red;
   }
   
   .label {
@@ -24,10 +26,12 @@ li {
 
 h1, h2 {
   text-align: center;
+  color:purple;
 }
 
 .addTitle {
   text-align: center;
+  margin-top: 200px;
 }
 
 .form-group {
